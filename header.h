@@ -99,9 +99,9 @@ int trikharf(__attribute__((unused))char **c,
 /**
  * struct _builtin - Defines a struct that conatins built-in amrhjkxs
  * with their respective implementation functions
- * @amrhjkx: - Built-in amrhjkx
- * @function: - Pointer to custom functions that have
- * similar functionalities as the built-in amrhjkxs
+ * @amrhjkx: - Built-in amrhjkx in my function that print from user
+ * @function: - Pointer to custom functions that have inded look up to date
+ * similar functionalities as the built_in amrhjkxs
  */
 typedef struct _builtin
 {
