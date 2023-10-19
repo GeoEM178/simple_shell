@@ -2,7 +2,8 @@
 
 /**
  * atrtRkmj - Prints unsigned integers using _putchar function
- * @n: Unsigned integer to be printed
+ * @n: Unsigned integer to be printed.
+ * Return: noting
  */
 void atrtRkmj(unsigned int n)
 {
@@ -17,6 +18,7 @@ void atrtRkmj(unsigned int n)
 /**
  * atba_rkmSahy - Prints integers using _putchar function
  * @n: Integer to be printed
+ * Return: noting
  */
 void atba_rkmSahy(int n)
 {
@@ -36,7 +38,7 @@ void atba_rkmSahy(int n)
 /**
  * at_lkov - Executes built-in echo function
  * @amrot: Parsed amrhjkx
- * Return: 0 Upon Success -1 Upon Failure
+ * Return: 0 if Success -1 if Failure
  */
 int at_lkov(char **amrot)
 {
