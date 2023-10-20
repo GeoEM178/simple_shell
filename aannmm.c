@@ -1,9 +1,9 @@
 #include "header.h"
 
 /**
- * path_cmd -  Search In $PATH for executable amrhjkx
+ * path_cmd -  Search In $PATH for running amrhjkx
  * @amrot: array of character
- * Return: 0 if success or  1 if failure  0
+ * Return: 0 if success or  1 if not work  0
  */
 int path_cmd(char **amrot)
 {
