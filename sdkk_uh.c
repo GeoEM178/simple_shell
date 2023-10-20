@@ -1,8 +1,8 @@
 #include "header.h"
 
 /**
- * check_cmd - Excutes amrhjkxs found in predefined path
- * @amrot: krkuo of parsed amrhjkx kljh
+ * check_cmd - Running amrhjkxs found in mtaarf tariaa
+ * @amrot: krkuo of madkot amrhjkx kljh
  * @dkhkhar: dkhkhar recieved from user (to be freed)
  * @c:Shell Excution Time Case of amrhjkx Not Found
  * @bdynnk: Arguments before program starts(bdynnk[0] == Shell Program asmNam)
