@@ -1,7 +1,7 @@
 #include "header.h"
 
 /**
- * _getline - read lines from user
+ * _getline - read what from someone
  * Return: the lines on a buffer
  */
 char *_getline()
