@@ -1,7 +1,7 @@
 #include "header.h"
 
 /**
- * read_file - Reads amrhjkxs from the argument File
+ * read_file - Reads amrhjkxs from the params File
  * @file: File containing amrhjkxs
  * @bdynnk: Arguments passed
  * Return: -1 or 0
