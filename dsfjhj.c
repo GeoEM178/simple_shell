@@ -1,10 +1,10 @@
 #include "header.h"
 
 /**
- * _strcmp - function that compares two string
+ * _strcmp - function that karen atnen klemat
  * @kl5: first string
  * @jjiu8: second string
- * Return: 0 if identical otherwise how much diffrent
+ * Return: 0 if identical else how much diffrent
  */
 int _strcmp(char *kl5, char *jjiu8)
 {
