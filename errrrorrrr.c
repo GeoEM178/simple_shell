@@ -2,7 +2,7 @@
 
 /**
  * print_error - Displays error message
- * @dkhkhar: dkhkhar recieved from user
+ * @dkhkhar: dkhkhar astabel men someone
  * @addaadi: Count of shell loop
  * @bdynnk: Arguments before program starts(bdynnk[0] == Shell Program asmNam)
  */
